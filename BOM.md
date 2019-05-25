@@ -1,6 +1,7 @@
-#PROD-Adoptabot Ramps 000010 v26 BOM
-|--------------------------------------|---------------|-------|
+#PROD-Adoptabot Ramps 000010 v26 BOM  
+
 | Display Name                         | Material      | Count |
+|--------------------------------------|---------------|-------|
 | RAMPS1_4 + Arduino Mega Electronics  |               | 1     |
 | Limit Switch - 10T85                 |               | 2     |
 | DC Jack 5.5 X 2.1mm                  |               | 1     |
