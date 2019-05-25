@@ -26,7 +26,7 @@
 | ISO 4032 - M3                        | Steel, Alloy  | 25    |
 | ISO 7089 - 3 - 140 HV(1)             | Steel, Alloy  | 4     |
 | ISO10511 - M3                        | Steel, Alloy  | 2     |
-| ISO 4026 - M3 x 4ISO                 | Steel, Alloy  | 4     |
+| ISO 4026 - M3 x 4I                   | Steel, Alloy  | 4     |
 | ISO 10642 - M3 x 8                   | Steel, Alloy  | 4     |
 | ISO 4762 - M3 X 8                    | Steel, Alloy  | 13    |
 | ISO 4762 - M3 X 10                   | Steel, Alloy  | 5     |
