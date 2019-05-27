@@ -1,8 +1,9 @@
-#FusionAdoptabot
+# FusionAdoptabot
 ----
   
-This is an adaptation of Printrbot's adoptabot original design.   
-This adaptation, removes printerbot's proprietary parts.  
+This is an adaptation of Printrbot's Adoptabot original design (https://www.brookdrumm.com/3dprinters1).  
+  
+This Adaptation, removes Printerbot proprietary parts.  
 * Hotend is replaced with E3D V6 All metal hotend  
 * Extruder is an E3D Titan  
 * The bed sensor is a BLtouch  
@@ -23,9 +24,20 @@ Fusion will unpack the archive and upload all the necissary parts and assemblies
   
 The model is also provided as STEP203 and can be imported into most any 3D CAD tool.
   
-###STL Files:  
+### STL Files:  
 Over the comming weeks I will extract and post the STL files. You can get these yourself from the above 3D models.    
 Posting of the STL files is only a convience for those looking to simply print and assemly the printer.  
   
-###Firmware:
-A work in progress firmware is available here:
+### Firmware:
+A work in progress firmware is available here: https://github.com/schneik80/Marlin-FusionAdoptabot  
+The firmware currenly support kinimatic setings only. Hotend configuration is TBD.  
+
+### Images:
+
+![](/_PROD-Adoptabot_Ramps_000010_2019-May-25_09-30-13PM-000_CustomizedView15403030646_png.png?raw=true)  
+  
+![](/_PROD-Adoptabot_Ramps_000010_2019-May-25_09-30-13PM-000_CustomizedView56993606097_png.png?raw=true)  
+  
+![](/_PROD-Adoptabot_Ramps_000010_2019-May-25_09-30-13PM-000_CustomizedView6313149427_png.png?raw=true)  
+
+  
