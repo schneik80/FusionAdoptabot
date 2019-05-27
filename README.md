@@ -18,7 +18,7 @@ All credit goes to Brook for releasing this design into the community. Without h
   
 **This design is licensed cc sharealike non comercial.**  
   
-###3D Models:  
+### 3D Models:  
 The 3D design is included  as a Fusion F3Z. Download this Fusion Archive. Launch Fusion 360. Create a new Project and in the data pane click upload. Select the F3Z.
 Fusion will unpack the archive and upload all the necissary parts and assemblies into the new project.  
   
