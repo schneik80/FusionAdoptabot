@@ -1,5 +1,4 @@
 # FusionAdoptabot
-----
   
 This is an adaptation of Printrbot's Adoptabot original design (https://www.brookdrumm.com/3dprinters1).  
   
