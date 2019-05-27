@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/schneik80/FusionAdoptabot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schneik80/FusionAdoptabot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#FusionAdoptabot
+----
+  
+This is an adaptation of Printrbot's adoptabot original design.   
+This adaptation, removes printerbot's proprietary parts.  
+* Hotend is replaced with E3D V6 All metal hotend  
+* Extruder is an E3D Titan  
+* The bed sensor is a BLtouch  
+* Electronics are Arduino Mega + Ramps 1.4-1.6  
+  
+PLA Parts all printed with 3 or 4 Permitars and 33% infill.  
+Suports are not included as these will vary with your own printerbot.  
+  
+The only custom component is the Print bed.  
+  
+All credit goes to Brook for releasing this design into the community. Without his work this would not have been possible.  
+  
+**This design is licensed cc sharealike non comercial.**  
+  
+###3D Models:  
+The 3D design is included  as a Fusion F3Z. Download this Fusion Archive. Launch Fusion 360. Create a new Project and in the data pane click upload. Select the F3Z.
+Fusion will unpack the archive and upload all the necissary parts and assemblies into the new project.  
+  
+The model is also provided as STEP203 and can be imported into most any 3D CAD tool.
+  
+###STL Files:  
+Over the comming weeks I will extract and post the STL files. You can get these yourself from the above 3D models.    
+Posting of the STL files is only a convience for those looking to simply print and assemly the printer.  
+  
+###Firmware:
+A work in progress firmware is available here:
