@@ -1,55 +1,51 @@
-PROD-Adoptabot Ramps 000010 v26 BOM,,
-Display Name,Material,Count
-RAMPS1_4 + Arduino Mega Electronics,,1
-Limit Switch - 10T85,,2
-DC Jack 5.5 X 2.1mm,,1
-Rocker Switch 10A,,1
-E3D Titan Areo Extruder,,1
-E3D v6 HotEnd,,1
-Fan 30 X 30 X 10 - 12v,,1
-Fan 40 X 40 X 10mm,,1
-BL-touch,,1
-.125 Print Plate,Aluminum 6061,1
-GT2 20 Tooth Pully,Aluminum,2
-GT2 Belt 305mm,"Rubber, Black",2
-8 x 175mm Rod,Chrome Steel,2
-8 x 190mm Rod,Chrome Steel,2
-8 x 195mm Rod,Chrome Steel,2
-LM8UU,,12
-608 2Z Bearing,,1
-624 2Z - 13 x 4 x 5mm Bearing,,4
-NEMA 17  Stepper Motor length - 23mm,,1
-NEMA 17 - Stepper Motor - 34mm,,2
-NEMA-17-TR8-8 X 350 Leadscrew,,1
-ISO 4032 - M3,"Steel, Alloy",25
-ISO 7089 - 3 - 140 HV(1),"Steel, Alloy",4
-ISO10511 - M3,"Steel, Alloy",2
-ISO 4026 - M3 x 4ISO,"Steel, Alloy",4
-ISO 10642 - M3 x 8,"Steel, Alloy",4
-ISO 4762 - M3 X 8,"Steel, Alloy",13
-ISO 4762 - M3 X 10,"Steel, Alloy",5
-ISO 4762 - M3 X 12,"Steel, Alloy",13
-ISO 4762 - M3 X 16,"Steel, Alloy",6
-ISO 4762 - M3 X 20,"Steel, Alloy",15
-ISO 4762 - M3 X 35,"Steel, Alloy",3
-Case Panel,PLA,1
-X Bar End Clamp Left,PLA,1
-X Build Plate Clamp Left,PLA,1
-X Bar End Clamp Right,PLA,1
-X Build Plate Clamp Right v1,PLA,1
-Belt Tensioner,PLA,1
-X Bearing Block,PLA,1
-Ramps Cover,PLA,1
-Main Housing,PLA,1
-Case Rear,PLA,1
-Z Motor Shim,PLA,1
-Extruder Mount,PLA,1
-Cooling Fan Shroud,PLA,1
-Cooling Fan Shroud Mount,PLA,1
-BLTouch Bracket,PLA,1
-Y Bar End Clamp,PLA,1
-Belt Tensioner,PLA,1
-Y Bearing Block,PLA,1
-Z Bar Clamp,PLA,1
-Z Bearing Block,PLA,1
-TR8 Nut,PLA,1
+Display Name,Part Number,Material,Count,
+GT2 20T Pully,,Aluminum 6061,2,x
+GT2 Belt 350mm,217-00010,"Rubber, Black",2,x
+.125 Print Plate,124-00005,Aluminum 6061,1,x
+8 x 225mm Bar,217-00008,Aluminum 6061,2,x
+8 x 200mm Bar,217-00008,Aluminum 6061,4,x
+624 2Z - 13 x 4 x 5mm Bearing,159-00004,Steel,4,x
+608 2Z 8 x 22 x 7mm Bearing,159-00005,Steel,1,x
+LM8UU,159-00003,Steel,12,x
+Case Rear,098-00003,PLA,1,
+Side Case Plate,,PLA,1,
+Main Housing,098-00002,PLA,1,
+Z Motor Shim,098-00004,PLA,1,
+X Bar End Clamp Left,098-00006,PLA,1,
+X Build Plate Clamp Left,098-00007,PLA,1,
+X Bar End Clamp Right,098-00008,PLA,1,
+X Build Plate Clamp Right v1,098-00009,PLA,1,
+Belt Tensioner,098-00010,PLA,1,
+X Bearing Block,098-00015,PLA,1,
+Z Bearing Block,098-00018,PLA,1,
+TR8 Nut,098-00019,PLA,1,
+Z Bar Clamp,098-00017,PLA,1,
+Extruder Mount,098-00011,PLA,1,
+Cooling Fan Shroud,,PLA,1,
+Cooling Fan Shroud Mount,098-00013,PLA,1,
+BLTouch Bracket,098-00012,PLA,1,
+Y Bar End Clamp,098-00014,PLA,1,
+Belt Tensioner,098-00010,PLA,1,
+Y Bearing Block,098-00016,PLA,1,
+Ramps Cover,098-00005,PLA,1,
+ISO 4762 - M3 X 8,156-00007,"Steel, Alloy",13,
+ISO 4762 - M3 X 10,156-00008,"Steel, Alloy",5,
+ISO 4762 - M3 X 12,156-00009,"Steel, Alloy",13,
+ISO 4762 - M3 X 16,156-00010,"Steel, Alloy",6,
+ISO 4762 - M3 X 20,156-00011,"Steel, Alloy",15,
+ISO 4762 - M3 X 35,156-00012,"Steel, Alloy",3,
+ISO 4032 - M3,153-00003,"Steel, Alloy",25,
+Locknut M3,153-00002,"Steel, Alloy",2,
+ISO 7089 - 3 - 140 HV(1),157-00005,"Steel, Alloy",4,
+ISO10642-M3x8,156-00006,"Steel, Alloy",4,
+RAMPS1_4,RAMPS1_4,,1,
+Limit Switch - 10T85,217-00002,,2,x
+E3D v6 HotEnd,E3D v6 HotEnd - Heatsink,,1,x
+BL-touch,699-00007,,1,x
+Titan Extruder,,,1,x
+Rocker Switch 10A,217-00003,Steel,1,x
+DC Jack 5.5 X 2.1mm,217-00004,,1,x
+NEMA-17 Stepper Motor + TR8 X 210mm Leadscrew,,,1,x
+NEMA 17 Stepper Motor - 34mm,301-00004,,2,x
+NEMA 17 Stepper Motor - 23mm,301-00005,,1,x
+Fan 30 X 30 X 10 - 12v,380-00001,,1,
